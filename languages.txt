@@ -9,3 +9,4 @@ haskell
 perl
 c
 c++
+julia
